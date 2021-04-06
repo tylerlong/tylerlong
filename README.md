@@ -1,7 +1,3 @@
-### 大家好，我是硅谷老刘
-
-请关注 [我的Youtube Channel](https://www.youtube.com/channel/UCQ0zIZxOrfeGYqDxZkTet1g).
-
 <!--
 **tylerlong/tylerlong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
